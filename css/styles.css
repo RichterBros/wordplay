@@ -1,0 +1,11 @@
+.jumbotron p{
+  font-weight: 300;
+  font-size: 20px;
+  Max-width: 50%;
+}
+
+.container{
+
+  padding: 100px;
+ padding-top: 25px;
+}
